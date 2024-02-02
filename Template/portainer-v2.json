@@ -2229,7 +2229,7 @@
 			"note": "The default user and password is admin/admin.",
 			"platform": "linux",
 			"ports": [
-				"8082:8082/tcp"
+				"8082:80/tcp"
 			],
 			"restart_policy": "unless-stopped",
 			"title": "FileBrowser",
